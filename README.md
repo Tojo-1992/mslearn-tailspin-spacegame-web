@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TestDevProjects/Space%20Game%20-%20web/_apis/build/status%2FTojo-1992.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/TestDevProjects/Space%20Game%20-%20web/_build/latest?definitionId=11&branchName=main)
 
 # Contributing
 
